@@ -10,7 +10,7 @@
     "@grpc/grpc-js": "^1.6.7",
     "@grpc/proto-loader": "^0.7.0",
     "async": "3.2.4",
-    "asyncjs-util": "1.2.9",
+    "asyncjs-util": "1.2.10",
     "bitcoinjs-lib": "6.0.1",
     "bn.js": "5.2.1",
     "bolt07": "1.8.2",
