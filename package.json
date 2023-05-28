@@ -44,7 +44,7 @@
     "lightning-network",
     "lnd"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "main": "index.js",
   "name": "lightning",
   "repository": {
